@@ -94,5 +94,3 @@ The output vector contains:
 - `y`: Joint 2 angle
 - `z`: 0.0
 
-The program checks whether the target is within the arm's reachable workspace and whether the calculated angles are within the servo limits before publishing them.
-
